@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594498891 source:f:\pst\acm2020\bit-mask\leetcode\1342. number of steps to reduce a number to zero\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594571317 source:f:\pst\acm2020\bit-mask\leetcode\1356. sort integers by the number of 1 bits\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
