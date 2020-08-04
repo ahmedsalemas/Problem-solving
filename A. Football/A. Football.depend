@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593028005 source:f:\pst\acm2020\codeforces(stls)\a. football\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

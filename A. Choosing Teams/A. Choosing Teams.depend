@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593265437 source:f:\pst\acm2020\codeforces(stls)\a. choosing teams\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
