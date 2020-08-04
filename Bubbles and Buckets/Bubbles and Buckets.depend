@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1591534116 source:f:\pst\uri (stl)acm2020\bubbles and buckets\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
