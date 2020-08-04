@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593278828 source:f:\pst\acm2020\codeforces(stls)\a. vanya and cards\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

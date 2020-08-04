@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1593039673 source:f:\pst\acm2020\codeforces(stls)\a. word\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
