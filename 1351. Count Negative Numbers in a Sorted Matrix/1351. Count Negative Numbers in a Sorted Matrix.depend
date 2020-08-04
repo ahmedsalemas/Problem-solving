@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595096667 source:f:\pst\acm2020\bit-mask\leetcode\1351. count negative numbers in a sorted matrix\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1595984381 source:f:\pst\acm2020\bit-mask\c. hamburgers\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
